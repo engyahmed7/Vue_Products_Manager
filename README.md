@@ -1,4 +1,4 @@
-# VueShopInventory
+# Vue Shop Inventory
 
 VueShopInventory is a simple Vue.js application for managing product inventory. It allows users to perform CRUD (Create, Read, Update, Delete) operations on products stored in a JSON Server.
 
@@ -41,7 +41,7 @@ The Composition API is used in another CRUD operation for managing products. It 
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/engyahmed7/Vue_Products_Manager`
+1. Clone this repository: `git clone https://github.com/engyahmed7/Vue_Products_Manager.git`
 2. Navigate to the project directory: `cd Vue_Products_Manager`
 3. Install dependencies: `npm install` or `yarn install`
 
